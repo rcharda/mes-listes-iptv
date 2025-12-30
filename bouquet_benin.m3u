@@ -1,8 +1,8 @@
 #EXTM3U
 
 // =======================================================
-// PARTIE 1 : CHAINES WEB (S'affichent dans en_direct.html)
-// (ORTB, Canal3, YouTube Live, Dailymotion, etc.)
+// 🌍 ZONE WEB (Pour la page en_direct.html)
+// (Chaînes Bénin, Togo, C.I, Sénégal...)
 // =======================================================
 
 #EXTINF:-1 group-title="BENIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Ortb_logo.jpg",ORTB TV
@@ -11,58 +11,93 @@ https://webcast.streamakaci.com/iframe/ortb/1/index.html
 #EXTINF:-1 group-title="BENIN" tvg-logo="https://canal3television.bj/wp-content/uploads/2025/12/LOGO272OK.png",Canal3 Benin
 https://player.infomaniak.com?channel=HR99617043325684795&player=12810
 
-#EXTINF:-1 group-title="BENIN" tvg-logo="https://i.ytimg.com/vi/5qap5aO4i9A/mqdefault.jpg",Golfe TV (YouTube)
+#EXTINF:-1 group-title="BENIN" tvg-logo="https://i.ytimg.com/vi/5qap5aO4i9A/mqdefault.jpg",Golfe TV Africa
 https://www.youtube.com/embed/live_stream?channel=UCqQWHKdGEpXFMO1yTE4q6OA
 
-#EXTINF:-1 group-title="BENIN" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kX4kQzXz0_yKz0_yKz0=s900-c-k-c0x00ffffff-no-rj",E-Télé (YouTube)
-https://www.youtube.com/embed/live_stream?channel=UC8Q_x_x_x_x_x_x_x_x_x
-
-#EXTINF:-1 group-title="BENIN" tvg-logo="https://eden-tv.bj/wp-content/uploads/2020/05/logo-eden-tv.png",Eden TV (YouTube)
+#EXTINF:-1 group-title="BENIN" tvg-logo="https://eden-tv.bj/wp-content/uploads/2020/05/logo-eden-tv.png",Eden TV
 https://www.youtube.com/embed/live_stream?channel=UCpP8p8p8p8p8p8p8p8p8p
 
-#EXTINF:-1 group-title="AFRIQUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/RTI_1_Logo.png",RTI 1 Côte d'Ivoire (Dailymotion)
+#EXTINF:-1 group-title="BENIN" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n4wbq_1QZ-Yt3_Q-Yt3_Q-Yt3_Q-Yt3_Q=s900-c-k-c0x00ffffff-no-rj",E-Télé Bénin
+https://www.youtube.com/embed/live_stream?channel=UC8Q_x_x_x_x_x_x_x_x_x
+
+#EXTINF:-1 group-title="BENIN" tvg-logo="https://i0.wp.com/beninwebtv.com/wp-content/uploads/2020/09/Logo-Benin-Web-TV-Carre.jpg",Benin Web TV
+https://www.youtube.com/embed/live_stream?channel=UC... (Mettre ID Youtube si dispo)
+
+#EXTINF:-1 group-title="AFRIQUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/RTI_1_Logo.png",RTI 1 (C.Ivoire)
 https://www.dailymotion.com/embed/video/x2j8n9e?autoplay=1
 
-#EXTINF:-1 group-title="AFRIQUE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4c/TFM_S%C3%A9n%C3%A9gal.jpg",TFM Sénégal (YouTube)
+#EXTINF:-1 group-title="AFRIQUE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4c/TFM_S%C3%A9n%C3%A9gal.jpg",TFM (Sénégal)
 https://www.youtube.com/embed/live_stream?channel=UCM1M1M1M1M1M1M1M1M1M1
 
-#EXTINF:-1 group-title="AFRIQUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/2sTV_Senegal.png/1200px-2sTV_Senegal.png",2sTV Sénégal (YouTube)
+#EXTINF:-1 group-title="AFRIQUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/2sTV_Senegal.png/1200px-2sTV_Senegal.png",2sTV
 https://www.youtube.com/embed/live_stream?channel=UC2sTV2sTV2sTV2sTV2sTV
 
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://emmanuel.tv/wp-content/uploads/2021/05/emmanuel-tv-logo.png",Emmanuel TV (Web)
+#EXTINF:-1 group-title="AFRIQUE" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOSq...=s900-c-k-c0x00ffffff-no-rj",Walf TV
+https://www.youtube.com/embed/live_stream?channel=UC...
+
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://emmanuel.tv/wp-content/uploads/2021/05/emmanuel-tv-logo.png",Emmanuel TV
 https://www.youtube.com/embed/live_stream?channel=UC1UC1UC1UC1UC1UC1UC1UC
 
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://i.ytimg.com/vi/K1.../maxresdefault.jpg",KTO TV Catholique
+https://www.youtube.com/embed/live_stream?channel=UC...
+
 // =======================================================
-// PARTIE 2 : CHAINES IPTV (S'affichent dans index.html)
-// (Liens .m3u8 rapides pour le décodeur)
+// 📡 ZONE IPTV (Pour le Décodeur index.html)
+// (Films, Sport, Info, Musique en .m3u8)
 // =======================================================
 
+// --- INFO ---
 #EXTINF:-1 group-title="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/France_24_FR_logo_2013.png",France 24
 https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
 
-#EXTINF:-1 group-title="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/TV5_MONDE_logo_2006.png",TV5 Monde Info
+#EXTINF:-1 group-title="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/TV5_MONDE_logo_2006.png",TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
 #EXTINF:-1 group-title="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Africanews.svg/1200px-Africanews.svg.png",Africanews
 https://euronews-africanews-fra-web.akamaized.net/Content/HLS/Live/Channel(AfricanewsFr)/index.m3u8
 
-#EXTINF:-1 group-title="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Euronews_logo.png",Euronews FR
+#EXTINF:-1 group-title="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Euronews_logo.png",Euronews
 https://euronews-euronews-fra-web.akamaized.net/Content/HLS/Live/Channel(EURONEWSFRAFR)/index.m3u8
 
-#EXTINF:-1 group-title="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Deutsche_Welle_logo_2012.svg/1200px-Deutsche_Welle_logo_2012.svg.png",DW Français
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:-1 group-title="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Al_Jazeera_Logo.svg/1200px-Al_Jazeera_Logo.svg.png",Al Jazeera (Anglais)
+#EXTINF:-1 group-title="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Al_Jazeera_Logo.svg/1200px-Al_Jazeera_Logo.svg.png",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
+// --- FILMS & SERIES (Gratuit) ---
+#EXTINF:-1 group-title="FILMS" tvg-logo="https://rakuten-tv.com/logo.png",Rakuten Action
+https://rakuten-actionmovies-1-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMS" tvg-logo="https://rakuten-tv.com/logo.png",Rakuten Comédie
+https://rakuten-comedy-1-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMS" tvg-logo="https://rakuten-tv.com/logo.png",Rakuten Drama
+https://rakuten-drama-1-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Novelas_TV_Logo.png",Novelas TV (Flux Web)
+https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Doctor_Who_logo.jpg/800px-Doctor_Who_logo.jpg",Doctor Who Channel
+https://pluto-doctorwho-1-fr.samsung.wurl.tv/playlist.m3u8
+
+// --- SPORT ---
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Red_Bull_TV_Logo.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTAIRE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png",NASA TV
-https://ntv1.akamaized.net/hls/live/2013975/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/L%27%C3%89quipe_logo.svg/1200px-L%27%C3%89quipe_logo.svg.png",L'Equipe (Si dispo)
+https://raw.githubusercontent.com/.../lequipe.m3u8 (Souvent bloqué)
 
-#EXTINF:-1 group-title="MODE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Fashion_TV_logo.png",Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSIQUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Trace_Urban_Logo.png/600px-Trace_Urban_Logo.png",Trace Urban (TEST)
+// --- MUSIQUE ---
+#EXTINF:-1 group-title="MUSIQUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Trace_Urban_Logo.png/600px-Trace_Urban_Logo.png",Trace Urban
 https://stream.trace.tv/trace_urban/index.m3u8
+
+#EXTINF:-1 group-title="MUSIQUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Trace_Tropical.png/640px-Trace_Tropical.png",Trace Tropical
+https://stream.trace.tv/trace_tropical/index.m3u8
+
+#EXTINF:-1 group-title="MUSIQUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clubbing_TV_logo.png",Clubbing TV
+https://d2nvs31859zcd8.cloudfront.net/hls/clubbingtv_mid.m3u8
+
+// --- ENFANTS ---
+#EXTINF:-1 group-title="ENFANT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Gulli_2017.png",Gulli (Flux Test)
+http://stream.tewiz.com/gulli.m3u8
+
+#EXTINF:-1 group-title="ENFANT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Duck_TV_logo.png",Duck TV
+https://5bca25372337d.streamlock.net/ducktv/ducktv/playlist.m3u8
