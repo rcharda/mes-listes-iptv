@@ -1,2 +1,7 @@
+#EXTM3U
+
 #EXTINF:-1 group-title="BENIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Ortb_logo.jpg",ORTB TV
 https://webcast.streamakaci.com/ortb/1/
+
+#EXTINF:-1 group-title="BENIN" tvg-logo="https://canal3television.bj/wp-content/uploads/2025/12/LOGO272OK.png",Canal3 Benin
+https://player.infomaniak.com?channel=HR99617043325684795&player=12810
