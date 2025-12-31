@@ -1,1 +1,860 @@
+#EXTM3U
+#EXTINF:-1 group-title="Autres",LiveNOW from FOX
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxnewsnow-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk4Mjg2OTcwMX0
+#EXTINF:-1 group-title="Autres",CNN Headlines
+https://amg01918-cnnus-amg01918c1-vizio-us-1813.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnheadlines-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDE1MTMyMTAzMH0
+#EXTINF:-1 group-title="Autres",Newsmax2
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-newsmax-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzAwMTA4MjAwOH0
+#EXTINF:-1 group-title="Autres",OAN Plus
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-oneamericanews-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mjk2NzI4MTE3NH0
+#EXTINF:-1 group-title="Autres",FOX Weather
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01542-foxweatherllc-weather-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzgyNTA3NzYzNX0
+#EXTINF:-1 group-title="Autres",AccuWeather Now
+https://amg00684-amg00684c1-vizio-us-7303.playouts.now.amagi.tv/playlist/amg00684-accuweather-accuweather-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDQ4OTgyMDA4OX0
+#EXTINF:-1 group-title="Autres",Your News
+https://zslate.ts.k8s.amagi.tv/playlist/leadstory-personalisation-004/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDQ1MTQ0MjU2MH0
+#EXTINF:-1 group-title="Autres",USA Today
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzMzNzg3NzE0M30
+#EXTINF:-1 group-title="Autres",Breaking News
+https://amg02703-amg02703c18-vizio-us-6423.playouts.now.amagi.tv/playlist/amg02703-leadstoryfast-leadstoryus-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDQzMDA5MjYxNn0
+#EXTINF:-1 group-title="Autres",Reuters 60
+https://amg00453-reuters-amg00453c1-vizio-us-2107.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDE3Mjg5NTMyMH0
+#EXTINF:-1 group-title="Autres",Yahoo Finance
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/yahoofina-yahoofinance-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MjkyMjk3Nzg5Nn0
+#EXTINF:-1 group-title="Autres",Schwab Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-tdameritrade-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MjkzNzU0OTUyOH0
+#EXTINF:-1 group-title="Autres",Fox 5 Atlanta
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5atlantawaga-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1M30
+#EXTINF:-1 group-title="Autres",Fox 5 Washington DC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1NX0
+#EXTINF:-1 group-title="Autres",Fox 2 Detroit
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MjA5NzM4MH0
+#EXTINF:-1 group-title="Autres",Fox 4 Dallas - Fort Worth
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1MX0
+#EXTINF:-1 group-title="Autres",Fox 13 Tampa Bay
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1Nn0
+#EXTINF:-1 group-title="Autres",Fox 2 San Francisco
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2sanfranciscoktvu-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MjA5NzM3OX0
+#EXTINF:-1 group-title="Autres",FOX 29 Philadelphia
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MjA5NzM4MX0
+#EXTINF:-1 group-title="Autres",Fox 35 Orlando
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox35orlandowofl-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1NH0
+#EXTINF:-1 group-title="Autres",Fox 13 Seattle
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13seattlekcpq-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1MH0
+#EXTINF:-1 group-title="Autres",Fox 11 Los Angeles
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1Mn0
+#EXTINF:-1 group-title="Autres",Fox 10 Phoenix
+https://amg00488-foxdigital-amg00488c2-vizio-us-898.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox10ksazphoenix-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MjA5NzM3OH0
+#EXTINF:-1 group-title="Autres",Fox 6 Milwaukee
+https://amg00488-foxdigital-amg00488c5-vizio-us-901.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox6milwaukeewiti-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDEwNTg0ODU1OH0
+#EXTINF:-1 group-title="Autres",Fox 7 Austin
+https://amg00488-foxdigital-amg00488c3-vizio-us-899.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox7austinktbc-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDEwNTg0ODU0M30
+#EXTINF:-1 group-title="Autres",Atlanta News First
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-atlantanewsfirst-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAwMzQxMjExOH0
+#EXTINF:-1 group-title="Autres",Cleveland 19 News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-cleveland19newsplus-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAwMzQxMjEyMH0
+#EXTINF:-1 group-title="Autres",WBTV News Charlotte
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAwMzQxMjExOX0
+#EXTINF:-1 group-title="Autres",KMOV4 News Missouri
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kmovnews4stlouis-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAwMzQxMjExNX0
+#EXTINF:-1 group-title="Autres",WSMV4 News Nashville
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wsmv4news-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAwMzQ1MjMyM30
+#EXTINF:-1 group-title="Autres",KCTV5 News Kansas City
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kctv5news-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAwMzQ1MTIyM30
+#EXTINF:-1 group-title="Autres",WFSB Eyewitness News 3 Connecticut
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wfsbplus-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAwMzQ1MjMyMn0
+#EXTINF:-1 group-title="Autres",FOX19 Now Cincinnati
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wxixfox19news-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAwMzQ1MjMyNH0
+#EXTINF:-1 group-title="Autres",WSB-TV 2 Atlanta
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreaking-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MDk1MjQyNH0
+#EXTINF:-1 group-title="Autres",WFTV 9 Central Florida
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvbreakingnews-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MDk1MjQxOH0
+#EXTINF:-1 group-title="Autres",WPXI 11 Pittsburgh
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreakingnews-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MDk1MjQyM30
+#EXTINF:-1 group-title="Autres",WSOC 9 Charlotte
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreakingnews-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MDk1MjQyNX0
+#EXTINF:-1 group-title="Autres",WHIO TV 7 Dayton
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreakingnews-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MDk1MjQyMX0
+#EXTINF:-1 group-title="Autres",CBS 47 Fox 30 Action News Jax
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreakingnews-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MDk1MjQyMn0
+#EXTINF:-1 group-title="Autres",Boston 25 News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wfxtbreakingnews-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MDk1MjQxOX0
+#EXTINF:-1 group-title="Autres",KIRO 7 Seattle
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreakingnews-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MDk1MjQxNn0
+#EXTINF:-1 group-title="Autres",ABC 7 Sarasota
+https://amg00312-amg00312c1-vizio-us-2634.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wwsbabc7yourlocalstation-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQ1NH0
+#EXTINF:-1 group-title="Autres",Fox Carolina WHNS
+https://amg00312-amg00312c2-vizio-us-2633.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-whnsfoxcarolinanews-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQyNn0
+#EXTINF:-1 group-title="Autres",Fox 5 KVVU Las Vegas
+https://amg00312-amg00312c3-vizio-us-2632.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-kvvufox5vegas-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQxOX0
+#EXTINF:-1 group-title="Autres",WBRC Fox 6 News Birmingham
+https://amg00312-amg00312c4-vizio-us-2631.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wbrcwbrcfox6news-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQyNH0
+#EXTINF:-1 group-title="Autres",WAVE Now Louisville
+https://amg00312-amg00312c5-vizio-us-2630.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wavewavenow-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQyMn0
+#EXTINF:-1 group-title="Autres",Fox 8 Local First New Orleans
+https://amg00312-amg00312c6-vizio-us-2629.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wvuefox8wvueneworleans-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQ1Mn0
+#EXTINF:-1 group-title="Autres",Action News 5 Memphis
+https://amg00312-amg00312c7-vizio-us-2628.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wmcactionnews5wmc-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQyOH0
+#EXTINF:-1 group-title="Autres",12 On Your Side Richmond
+https://amg00312-amg00312c8-vizio-us-2627.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wwbt12onyourside-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQ1M30
+#EXTINF:-1 group-title="Autres",Fox 10 News Mobile-Pensacola
+https://amg00312-amg00312c9-vizio-us-2626.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-walafox10news-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQyMX0
+#EXTINF:-1 group-title="Autres",WVLT 8 Knoxville
+https://amg00312-amg00312c10-vizio-us-2625.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wvltwvltnews-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQ1MX0
+#EXTINF:-1 group-title="Autres",WKYT Lexington
+https://amg00312-amg00312c11-vizio-us-2635.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wkytwkytnews-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQyN30
+#EXTINF:-1 group-title="Autres",13 News KOLD Tucson
+https://amg00312-amg00312c16-vizio-us-2639.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-koldkoldnews13-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQxOH0
+#EXTINF:-1 group-title="Autres",ABC 2 WBAY-TV Green Bay
+https://amg00312-amg00312c13-vizio-us-2636.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wbaywbayaction2news-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQyM30
+#EXTINF:-1 group-title="Autres",12 News KWCH Wichita
+https://amg00312-amg00312c14-vizio-us-2637.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-kwchkwch12news-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQyMH0
+#EXTINF:-1 group-title="Autres",WDBJ 7 Roanoke
+https://amg00312-amg00312c15-vizio-us-2638.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wdbjwdbj7news-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQyNX0
+#EXTINF:-1 group-title="Autres",Shark Attack
+https://amg00346-amg00346c30-amgplt0022.playout.now3.amagi.tv/playlist/amg00346-amg00346c30-amgplt0022/playlist.m3u8?lmt=%7bLMT%7d&tv_ad_id=%7bTV_AD_ID%7d&gpp_sid=%7bGPP_SID%7d&app_bundle=%7bAPP_BUNDLE%7d&channel_name=%7bCHANNEL_NAME%7d&inv_partner_domain=%7bINV_PARTNER_DOMAIN%7d&is_lat=%7bIS_LAT%7d&app_store_url=%7bAPP_STORE_URL%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&ifa_type=%7bIFATYPE%7d&network_name=%7bNETWORK_NAME%7d&did=%7bADID%7d&iu=%7bIU%7d&pod_ad_slots=%7bPOD_AD_SLOTS%7d&schain=%7bSCHAIN%7d&w=%7bWIDTH%7d&gpp=%7bGPP%7d&h=%7bHEIGHT%7d&ad_pos=%7bAD_POS%7d&dnt=%7bDNT%7d&app_name=%7bAPP_NAME%7d&idtype=%7bIDTYPE%7d&us_privacy=%7bUSPRIVACY%7d&skip=%7bSKIPPABLE%7d&url=%7bDOMAIN%7d&ic=%7bIC%7d&content_livestream=%7bCONTENT_LIVESTREAM%7d&prodq=%7bPRODQ%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDU4NDEwMDM3Nn0
+#EXTINF:-1 group-title="Autres",Valor
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioservicesll-oando2-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzQ0NDUwMjg1MH0
+#EXTINF:-1 group-title="Autres",Romance: Rom-Coms
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizioromance-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzc3NTAxMDY1NH0
+#EXTINF:-1 group-title="Autres",ACTION!
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzYxMDMwNjY3Mn0
+#EXTINF:-1 group-title="Autres",Free Comedy Network
+https://amg00346-amg00346c25-amgplt0022.playout.now3.amagi.tv/playlist/amg00346-amg00346c25-amgplt0022/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDU1MjI5OTIwMn0
+#EXTINF:-1 group-title="Autres",50 Cent Action
+https://amg00353-amg00353c49-vizio-us-7989.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-50centaction-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDUyNTE1ODU0Nn0
+#EXTINF:-1 group-title="Autres",Shout! Movies
+https://amg00163-amg00163c15-vizio-us-7500.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutmovies-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDQ5NjY4MzA1OX0
+#EXTINF:-1 group-title="Autres",HerSphere
+https://amg00353-lionsgatestudios-amg00353c3-vizio-us-802.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-hersphere-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDA5MDYwMDQwMX0
+#EXTINF:-1 group-title="Autres",Circle Country
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-circle-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDI5MTYyMzQxOH0
+#EXTINF:-1 group-title="Autres",AfroLandTV
+https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=816&partner=vizio_syndication&device_id=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&us_privacy=%7bUSPRIVACY%7d&lmt=%7bLMT%7d&lmt=%7bLMT%7d&ifa_type=%7bIFATYPE%7d&ifa_type=%7bIFATYPE%7d&app_bundle=%7bAPP_BUNDLE%7d&app_name=%7bAPP_NAME%7d&app_store_url=%7bAPP_STORE_URL%7d&app_domain=%7bDOMAIN%7d&device_height=%7bHEIGHT%7d&device_width=%7bWIDTH%7d&device_make=%7bDEVICE_MAKE%7d&vizdartoken=eyJhdWQiOiIyNDMiLCJ3ZnBjaWQiOjM5ODA4Mzc0OTN9
+#EXTINF:-1 group-title="Autres",Screambox TV
+https://wurlcineverse.global.transmit.live/hls/678864b20b2848c81efe74be/v1/cinedigm_entertainment_corp_screamboxtv_1/vizio_us/latest/main/hls/playlist.m3u8?wurl_channel=1845&wurl_name=ScreamboxTV&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDQyNjk2MDA1MX0
+#EXTINF:-1 group-title="Autres",Dark Matter TV
+https://wurltricoast.global.transmit.live/hls/67f032bce3ed1615e41629bf/playlist.m3u8?wurl_channel=1570&wurl_name=DarkMatterTV&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDExNjk1MDk2OH0
+#EXTINF:-1 group-title="Autres",Gravitas Movies
+https://amg00966-amg00966c1-amgplt0022.playout.now3.amagi.tv/playlist/amg00966-amg00966c1-amgplt0022/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDQwMTQ5MDAwNn0
+#EXTINF:-1 group-title="Autres",Baywatch
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00145-buzzr-bigballs-baywatch-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzM3MjM4MDQxNn0
+#EXTINF:-1 group-title="Autres",ElectricNow
+https://amg01705-amg01705c1-amgplt0022.playout.now3.amagi.tv/playlist/amg01705-amg01705c1-amgplt0022/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDM4MTI3NDg3OX0
+#EXTINF:-1 group-title="Autres",Duck Dynasty by A&E
+https://amg00276-amg00276c2-vizio-us-4044.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-duckdynasty-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDI4NzUyMjg5OX0
+#EXTINF:-1 group-title="Autres",BYUtv
+https://amg02604-byutv-amg02604c2-vizio-us-3726.playouts.now.amagi.tv/playlist/amg02604-byutvfast-byutv-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDI3MzY0MzA3MX0
+#EXTINF:-1 group-title="Autres",Investigation
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-crime-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzMyOTc0MDA1N30
+#EXTINF:-1 group-title="Autres",Chasing Criminals
+https://amg00136-wbd-amg00136c17-vizio-us-1800.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvchasingcriminals-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDE1ODI0NjQxNH0
+#EXTINF:-1 group-title="Autres",Cold Case Files by A&E
+https://amg00276-amg00276c3-vizio-us-4063.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-coldcasefiles-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDI4NzUyMjg5OH0
+#EXTINF:-1 group-title="Autres",Living with Evil
+https://amg00136-wbd-amg00136c25-vizio-us-1807.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvlivingwithevil-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDE1ODI0NjQyMX0
+#EXTINF:-1 group-title="Autres",Love Kills
+https://amg00136-wbd-amg00136c21-vizio-us-1804.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvlovekills-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDE1ODI0NjQxOH0
+#EXTINF:-1 group-title="Autres",The FBI
+https://amg00136-wbd-amg00136c19-vizio-us-1802.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvfbi-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDE1ODI0NjQxNn0
+#EXTINF:-1 group-title="Autres",Real Crime
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-lds-realcrime-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzIxMjY4NTE1MX0
+#EXTINF:-1 group-title="Autres",The Three Stooges+
+https://amg02451-c3-amg02451c1-vizio-us-3670.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDI3MTE3MjQ1NH0
+#EXTINF:-1 group-title="Autres",The Carol Burnett Show
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-carol-burnett-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mjk5MzgwMDU5M30
+#EXTINF:-1 group-title="Autres",Johnny Carson TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-johnnycarson-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MjkyMjk3Nzg4N30
+#EXTINF:-1 group-title="Autres",MST3K
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-mst3k-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MjkyMjk3Nzg4OX0
+#EXTINF:-1 group-title="Autres",Western Bound
+https://api-ott-imagicomm-ime.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=vizio_syndication&device_id=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&lmt=%7bLMT%7d&ifa_type=%7bIFATYPE%7d&app_bundle=%7bAPP_BUNDLE%7d&app_name=%7bAPP_NAME%7d&app_store_url=%7bAPP_STORE_URL%7d&app_domain=%7bDOMAIN%7d&device_height=%7bHEIGHT%7d&device_width=%7bWIDTH%7d&device_make=%7bDEVICE_MAKE%7d&vizdartoken=eyJhdWQiOiIyNDMiLCJ3ZnBjaWQiOjQwMDkyMDIxMzR9
+#EXTINF:-1 group-title="Autres",Deal or No Deal
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-dealornodeal-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAwNjE4MDI0Mn0
+#EXTINF:-1 group-title="Autres",Family Feud Classic
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-familyfeudvizio-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAyNzMxODU2NH0
+#EXTINF:-1 group-title="Autres",Wipeout Xtra
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-wipeoutxtra-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAwNjE4MDI0NH0
+#EXTINF:-1 group-title="Autres",Fear Factor
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAwNjE4MDI0M30
+#EXTINF:-1 group-title="Autres",Say Yes to the Dress
+https://amg00136-wbd-amg00136c26-vizio-us-1808.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvsayyestothedress-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDE1ODI0NjQyMn0
+#EXTINF:-1 group-title="Autres",Matched Married Meet
+https://amg00276-amg00276c4-vizio-us-4058.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-matchedmarriedmeet-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDI4NzUyMjkwMn0
+#EXTINF:-1 group-title="Autres",Dog the Bounty Hunter
+https://amg00276-amg00276c10-vizio-us-4062.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunter-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDI4NzUyMjkwM30
+#EXTINF:-1 group-title="Autres",Bachelor Nation
+https://amg00136-wbd-amg00136c28-vizio-us-1799.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvbachelornation-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDE1NDE2NzMyN30
+#EXTINF:-1 group-title="Autres",Dance Moms
+https://amg00276-amg00276c9-vizio-us-4061.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dancemoms-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDI4NzUyMjkwMH0
+#EXTINF:-1 group-title="Autres",Project Runway
+https://amg02189-spyglassmediagroup-amg02189c1-vizio-us-513.playouts.now.amagi.tv/playlist/amg02189-spyglass-projectrunway-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAyODIyOTU5Mn0
+#EXTINF:-1 group-title="Autres",Operation Repo
+https://amg02042-amg02042c26-vizio-us-4381.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-operationrepo-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDMwMzA3MDg0M30
+#EXTINF:-1 group-title="Autres",The Osbournes
+https://amg00627-banijay-amg00627c6-vizio-us-7653.playouts.now.amagi.tv/playlist/amg00627-banijayfast-osbournes-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDUxMjI5MjE3MH0
+#EXTINF:-1 group-title="Autres",Nosey
+https://wurlnosey.global.transmit.live/hls/678a8e43ce42a042c23ace07/v1/nosey_2/vizio_us/latest/main/hls/playlist.m3u8?wurl_channel=319&wurl_name=Nosey&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MjkyNzUyNTMzOH0
+#EXTINF:-1 group-title="Autres",Confess by Nosey
+https://wurlnosey.global.transmit.live/hls/679110b10b2848c81efe74e3/playlist.m3u8?wurl_channel=1445&wurl_name=ConfessByNosey-1&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDI4NzkyMjM5M30
+#EXTINF:-1 group-title="Autres",Four In A Bed
+https://wurlall3media.global.transmit.live/hls/684330e0efdff2f214fb95ba/playlist.m3u8?wurl_channel=1354&wurl_name=FourInABed&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDA0OTI5NjA4OH0
+#EXTINF:-1 group-title="Autres",The Bob Ross Channel
+https://wurlcineverse.global.transmit.live/hls/678863ef58870f59fceabf94/v1/cinedigm_entertainment_corp_thebobrosschannel_1/vizio_us/latest/main/hls/playlist.m3u8?wurl_channel=1844&wurl_name=TheBobRossChannel&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDQwOTcyMzI0Nn0
+#EXTINF:-1 group-title="Autres",IRNA
+https://tv.irna.ir/live/stream/index.m3u8
+#EXTINF:-1 group-title="Autres",BBC PERSIAN
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="Autres",IRIB IFILM FAR
+https://live.presstv.ir/hls/ifilmfa_4_482/index.m3u8
+#EXTINF:-1 group-title="Autres",MBC PERSIA
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 group-title="Autres",MBC PERSIA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+#EXTINF:-1 group-title="Autres",MBC PERSIA
+https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 group-title="Autres",ASIL TV
+https://live.asil.tv/asiltv/index.m3u8
+#EXTINF:-1 group-title="Autres",NEJAT TV
+https://hls.nejat.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",YOUR TIME
+https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",OX IR
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",AVA FAMILY
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",PARS
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",SL ONE
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",SL TWO
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",ITN
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",META FILM
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",AVA SERIES
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",BRAVOO
+https://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",FX TV
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",OI TN
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",TAPESH
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 group-title="Autres",TAPESH IR
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+#EXTINF:-1 group-title="Autres",MIHAN TV
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",PAYVAND
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 group-title="Autres",PJ TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Autres",ASSIRAT
+https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
+#EXTINF:-1 group-title="Autres",GEM SERIES
+https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8
+#EXTINF:-1 group-title="Autres",PERSIANA NOSTALGIA
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",PERSIANA MUSIC
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",PERSIANA TURKIYE
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",PERSIANA COMEDY
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",PERSIANA IRANIAN
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",PERSIANA ONE
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",PERSIANA TWO
+https://twohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",PERSIANA KOREA
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",PERSIANA CINEMA
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",PERSIANA HD
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Autres",A SPOR [tkn-blocked]
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:-1 group-title="Autres",SPOTIFY TURKEY • 2025 🎶🎵🎼🎹🪗🎸🎷🎺🎻🪕
+https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr25.ts
+#EXTINF:-1 group-title="Autres",TRT MÜZİK
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Autres",KRAL - KRAL POP
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+#EXTINF:-1 group-title="Autres",KRAL - KRAL POP
+https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=kralpoptv_web
+#EXTINF:-1 group-title="Autres",DREAM TÜRK
+http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="Autres",POWER TÜRK
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",POWER TÜRK
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",POWER TÜRK TAPTAZE
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",POWER TÜRK SLOW
+http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",POWER TÜRK AKUSTİK
+http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",TATLISES
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",MİLYON TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:-1 group-title="Autres",NUMBER ONE TÜRK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",NUMBER ONE TÜRK ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 group-title="Autres",NUMBER ONE TÜRK ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",NUMBER ONE TÜRK DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 group-title="Autres",NUMBER ONE TÜRK DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",NUMBER ONE TÜRK DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 group-title="Autres",NUMBER ONE TÜRK DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",NUMBER ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",FASHION ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+#EXTINF:-1 group-title="Autres",FASHION ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",POWER TV
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",POWER TV
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",POWER DANCE
+http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",POWER LOVE
+http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",NUMBER ONE (backup)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
+#EXTINF:-1 group-title="Autres",KRAL - KRAL POP (backup)
+http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
+#EXTINF:-1 group-title="Autres",KRAL - KRAL POP (backup)
+https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128
+#EXTINF:-1 group-title="12. |TR|🇹🇷 AVRUPA; DİNÎ; DİĞER",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Autres",TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Autres",KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 group-title="Autres",SHOW TÜRK
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
+#EXTINF:-1 group-title="Autres",EURO D
+http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 group-title="Autres",EURO STAR
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
+#EXTINF:-1 group-title="Autres",TGRT EU
+https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
+#EXTINF:-1 group-title="Autres",AGRO TV
+https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/index.m3u8
+#EXTINF:-1 group-title="Autres",ÇİFTÇİ TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",KANAL B
+https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
+#EXTINF:-1 group-title="Autres",DİYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",DİYANET TV
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",SEMERKAND
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",SEMERKAND WAY
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409fdaa68111.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",DOST TV
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 group-title="Autres",REHBER TV
+https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Autres",LALEGÜL TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 group-title="Autres",VAV TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dini/vav-tv.m3u8
+#EXTINF:-1 group-title="Autres",ON4 TV
+https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Autres",AFRO TURK TV
+https://edge1.socialsmart.tv/live/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Autres",LUYS TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",SAT 7 TÜRK
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",SAT 7 TÜRK
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
+#EXTINF:-1 group-title="Autres",KANAL HAYAT
+https://livecdn.use1-0004.jwplive.com/live/sites/WpgVdplm/media/icNwL50b/live.isml/live.m3u8
+#EXTINF:-1 group-title="Autres",ABN TURKEY
+https://mediaserver.abnvideos.com/streams/turkish__discipleship.m3u8
+#EXTINF:-1 group-title="Autres",TGRT BELGESEL
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",TGRT BELGESEL
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+#EXTINF:-1 group-title="Autres",KANAL 7 AVRUPA (backup)
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/kanal7eu.m3u8
+#EXTINF:-1 group-title="13. |TR|🇹🇷 YEREL - BÖLGESEL",ANADOLU NET TV
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
+#EXTINF:-1 group-title="Autres",AKDENİZ TV
+https://cdn-akdeniztv.yayin.com.tr/akdeniztv/akdeniztv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",AKSU TV KAHRAMANMARAŞ
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",ALANYA POSTA TV
+https://win1.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",ALTAS TV ORDU
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Autres",ART ANTALYA WORLD
+https://live.artidijitalmedya.com/artidijital_artworld/artworld/chunks.m3u8
+#EXTINF:-1 group-title="Autres",ARTI TV
+https://cdn4.yayin.com.tr/arti/index.m3u8
+#EXTINF:-1 group-title="Autres",AS TV BURSA
+https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
+#EXTINF:-1 group-title="Autres",BİR TV İZMİR
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",BİR TV İZMİR
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Autres",BRTV KARABÜK
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+#EXTINF:-1 group-title="Autres",BURSA LINE TV
+https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Autres",BURSA ON6 TV
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
+#EXTINF:-1 group-title="Autres",BURSA ON6 TV
+https://live.euromediacenter.com/on6tvyayin/index.m3u8
+#EXTINF:-1 group-title="Autres",ÇAY TV RİZE
+https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="Autres",DENİZ POSTASI TV
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:-1 group-title="Autres",DİM TV ALANYA
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",DİYAR TV
+https://yayin30.haber100.com/live/diyartv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",DİYAR TV
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",ER TV MALATYA
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",ERCİS TV
+https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
+#EXTINF:-1 group-title="Autres",ERCİYES TV
+https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",ERZURUM WEB TV
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",ES TV ESKİŞEHİR
+https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8
+#EXTINF:-1 group-title="Autres",ESENLER ŞEHİR TV
+https://yayin30.haber100.com/live/sehirekrani/playlist.m3u8
+#EXTINF:-1 group-title="Autres",ETV KAYSERİ
+https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
+#EXTINF:-1 group-title="Autres",FRT FETHİYE
+https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="Autres",GRT GAZİANTEP TV
+https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
+#EXTINF:-1 group-title="Autres",GÜNE DOĞUŞ TV
+http://cdn-expovizyontv.yayin.com.tr/expovizyontv/expovizyontv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",GÜNEYDOĞU TV
+https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Autres",HABER61 TRABZON
+https://cdn-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",HUNAT TV KAYSERİ
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",İÇEL TV MERSİN
+https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Autres",İZMİR TIME 35 TV
+https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",KANAL 15 BURDUR
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+#EXTINF:-1 group-title="Autres",KANAL 19 ÇORUM
+https://live.euromediacenter.com/kanal19/index.m3u8
+#EXTINF:-1 group-title="Autres",Bodas+ (US) Geo
+https://amg00136-wbd-amg00136c51-lg-us-5709.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Brat TV (CH)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lgch/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Brat TV (FR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lgfr/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Brat TV (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lggb/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Brat TV (IT)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lgit/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Bref Cinema (FR)
+https://lagenceducourtmetrage-brefcinema-01-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",British Screen Classics (GB) Geo
+https://amg00654-itv-amg00654c22-lg-gb-4066.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Boxing (US) Geo
+https://amg00136-wbd-amg00136c41-lg-us-3570.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Bondi Vet (AU)
+https://wtfn-bondivet-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Bizzare Foods (US) Geo
+https://amg00136-wbd-amg00136c42-lg-us-5710.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Buzzr (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Canal Anime Onegai 1 Portuguese (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11777
+#EXTINF:-1 group-title="Autres",Canal Anime Onegai 2 Portuguese (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11776
+#EXTINF:-1 group-title="Autres",Canal Anime Onegai 3 Portuguese (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11775
+#EXTINF:-1 group-title="Autres",Canal Anime Onegai 4 Portuguese (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
+#EXTINF:-1 group-title="Autres",Canal Anime Onegai 5 Portuguese (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773
+#EXTINF:-1 group-title="Autres",Canal Anime Onegai 1 (ES)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
+#EXTINF:-1 group-title="Autres",Canal Anime Onegai 2 Portuguese (ES)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
+#EXTINF:-1 group-title="Autres",Canal Anime Onegai 3 Portuguese (ES)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
+#EXTINF:-1 group-title="Autres",Canal Anime Onegai Sport Portuguese (ES)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+#EXTINF:-1 group-title="Autres",Canal Anime Onegai 5 (ES)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+#EXTINF:-1 group-title="Autres",CGTV (IT)
+https://cgentertainment-cgtv-1-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Chili Alta Tensione
+https://chili-chili-alta-tensione-1-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Chili Buonu more
+https://chili-chilibuonumore-1-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Chili Indimenticabili (IT)
+https://chili-chiliindimenticabili-1-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Chili Velvet (IT)
+https://chili-chilivelvet-1-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cine Clasico (CL) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicocl-lgcl/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cine Clasico (CO) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoco-lgco/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cine Clasico (PE) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicope-lgpe/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cine Sureno (AR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesurenoar-lgar/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cine Sureno (CL) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesurenocl-lgcl/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cine Sureno (CO) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesurenoco-lgco/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cine Sureno (PE) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesurenope-lgpe/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cine Estrella (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cine Real (CO) Geo
+https://amg01024-olympusat-amg01024c6-lg-co-1130.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-cinereal-lgco/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cine Real (CL) Geo
+https://amg01024-olympusat-amg01024c6-lg-cl-1131.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-cinereal-lgcl/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cine Real (PE) Geo
+https://amg01024-olympusat-amg01024c6-lg-pe-1132.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-cinereal-lgpe/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cinenanar
+https://zylo-cinenanar-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNBC (ES) Geo
+https://amg01079-nbcuuk-amg01079c1-lg-es-2034.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lges/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNBC (UK) Geo
+https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcuk-lggb/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNBC (DE) Geo
+https://amg01079-nbcuuk-amg01079c1-lg-de-2031.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgde/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNBC (FR) Geo
+https://amg01079-nbcuuk-amg01079c1-lg-fr-2032.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgfr/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNBC (IT) Geo
+https://amg01079-nbcuuk-amg01079c1-lg-it-2033.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgit/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNBC (PT) Geo
+https://amg01079-nbcuuk-amg01079c1-lg-pt-2035.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgpt/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNBC Awaaz (IN) Geo
+https://amg00866-amg00866c2-lg-in-3525.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNBC TV 18 (IN) Geo
+https://amg00866-amg00866c9-lg-in-4409.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN Fast (ES)
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN Fast (DE) Geo
+https://amg00803-cnnfast-amg00803c6-lg-de-5356.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN Fast (GB) Geo
+https://amg00803-cnnfast-amg00803c6-lg-gb-5355.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN Brasil (BR) Geo
+https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST (AT) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgat/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST alt (AT)
+https://amg00803-cnnfast-amg00803c6-lg-at-5357.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST (BE) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgbe/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST (CH) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgch/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST alt (CH)
+https://amg00803-cnnfast-amg00803c6-lg-ch-5358.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST (DE) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgde/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST (DK) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgdk/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST (ES) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lges/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST (FI) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgfi/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST (FR) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgfr/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST (GB) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lggb/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST (IE) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgie/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST (IT) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgit/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST (LU) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lglu/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST (NL) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgnl/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST (NO) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgno/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST (PT) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgpt/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN FAST (SE) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgse/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN (US) Geo
+https://amg01918-cnnus-amg01918c2-lg-us-5721.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN Envivo (US) Geo
+https://amg01918-cnnus-amg01918c4-lg-us-5720.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CNN News 18 (IN) Geo
+https://amg00866-amg00866c5-lg-in-3520.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Competencias (US)
+https://spt-competencias-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cops (AR)
+https://rightsboosterltd-cops-1-ar.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cops (AU)
+https://langleyproductions-cops-2-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cops (CA)
+https://langleyproductions-cops-2-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cops (GB)
+https://langleyproductions-cops-2-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cops (CL)
+https://rightsboosterltd-cops-1-cl.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cops (CO)
+https://rightsboosterltd-cops-1-co.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cops (MX)
+https://rightsboosterltd-cops-1-mx.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Cops (PE)
+https://rightsboosterltd-cops-1-pe.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Craction TV
+https://palatinmedia-cractiontv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Crimetime
+https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Crimen (US) Geo
+https://amg00136-wbd-amg00136c60-lg-us-5708.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Curiousity Now (CA) Geo
+https://amg00170-amg00170c1-lg-ca-3479.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Curiousity Now (US) Geo
+https://amg00170-amg00170c1-lg-us-3478.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Culture Pub (FR)
+https://amg02232-botravail-amg02232c3-lg-fr-776.playouts.now.amagi.tv/playlist/amg02232-botravail-culturepub-lgfr/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CTV News (CA) Geo
+https://amg00089-bellmedia-amg00089c3-lg-ca-2995.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CTV Gridlock (CA) Geo
+https://amg00089-bellmedia-amg00089c7-lg-ca-3103.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvgridlock-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CTV Home (CA) Geo
+https://amg00089-bellmedia-amg00089c9-lg-ca-3224.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvhome-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CTV Laughs (CA) Geo
+https://amg00089-bellmedia-amg00089c10-lg-ca-3225.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvlaughs-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Autres",The Mightiest by CTV (CA) Geo
+https://amg00089-bellmedia-amg00089c5-lg-ca-3107.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-themightiestbyctv-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Corner Gas Channel (CA) Geo
+https://amg00089-bellmedia-amg00089c4-lg-ca-2996.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-cornergaschannel-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Noovo Cinema (CA) Geo
+https://amg00089-bellmedia-amg00089c12-lg-ca-3227.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-noovocinema-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Noovo Comedies (CA) Geo
+https://amg00089-bellmedia-amg00089c8-lg-ca-3105.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-noovocomedies-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Noovo Tele Realities (CA) Geo
+https://amg00089-bellmedia-amg00089c6-lg-ca-3106.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-noovotelerealites-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Autres",TSN The Ocho (CA) Geo
+https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-tsntheocho-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Dance Moms (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00276-aetelevisionnet-dancemoms-lgus/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Dance Moms (CA) Geo
+https://amg00276-aenetwork-amg00276c16-lg-ca-3742.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Dance Moms (NO)
+https://amg00276-aenetwork-amg00276c16-lg-no-3755.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",DAZN (CA) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazntv-lgca/playlist.m3u8
+#EXTINF:-1 group-title="Autres",DAZN Fast (DE) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznfast-lgde/playlist.m3u8
+#EXTINF:-1 group-title="Autres",DAZN Rise (DE) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznrise-lgde/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Deal Masters (GB) Geo
+https://amg00841-aeemea-amg00841c8-lg-gb-3889.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Deal or no Deal (AU) Geo
+https://amg00627-banijay-amg00627c2-lg-au-1972.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodeal-lgau/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Deal or no Deal alt ?(AU) Geo
+https://amg00627-banijay-amg00627c22-lg-au-3875.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Deal or no Deal (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/lgAAAAAAA-banijay-dealornodeal-lg-us/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Defa TV (AT)
+https://wdrmediagroup-defatv-1-at.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Defa TV (CH)
+https://wdrmediagroup-defatv-1-ch.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Defa TV (DE)
+https://wdrmediagroup-defatv-1-de.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Degrassi (US)
+https://dhx-degrassi-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Divorce Court (US)
+https://foxlincolnwooddrive-divorcecourt-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Docu Plus C7 (US)
+https://amg02040-lguplus-amg02040c7-tcl-us-5113.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Docu Plus C9 (US)
+https://amg02040-lguplus-amg02040c9-tcl-us-6425.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Dog the Bounty Hunter (AU) Geo
+https://amg00276-aenetwork-amg00276c11-lg-au-5154.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Dog the Bounty Hunter (CA) Geo
+https://amg00276-aenetwork-amg00276c11-lg-ca-3645.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Dog the Bounty Hunter (GB) Geo
+https://amg00276-aenetwork-amg00276c11-lg-gb-3748.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",Dog the Bounty Hunter (NL) Geo
+https://amg00276-aenetwork-amg00276c11-lg-nl-3749.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",TVE 24 H (backup)
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main.m3u8
+#EXTINF:-1 group-title="Autres",TVE INTERNACIONAL (america)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+#EXTINF:-1 group-title="Autres",STAR TVE (espana)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+#EXTINF:-1 group-title="Autres",ANTENA 3 (backup)
+https://gitlab.com/movrey/movrel/-/raw/main/ant3.m3u8
+#EXTINF:-1 group-title="Autres",TVE CLAN [geo-restricted]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/clan/clan_main_720.m3u8
+#EXTINF:-1 group-title="Autres",TVE CLAN [geo-restricted]
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
+#EXTINF:-1 group-title="Autres",TELE MAROC
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tlma.m3u8
+#EXTINF:-1 group-title="Autres",CHADA TV شدى
+https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
+#EXTINF:-1 group-title="Autres",MEDI 1 MG العربية
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Autres",MEDI 1 AR العربية
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Autres",MEDI 1 AF العربية
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Autres",AL AOULA LAÂYOUNE الأولى
+https://oppomu.serv00.net/maroo00/malaayoune.php?m3u8
+#EXTINF:-1 group-title="Autres",AL AOULA INT الأولى
+https://xddrts.alwaysdata.net/maroo00/maaloula.php?m3u8
+#EXTINF:-1 group-title="Autres",ARRYADIA الرياضية
+https://oppomu.serv00.net/maroo00/maarry.php?m3u8
+#EXTINF:-1 group-title="Autres",ARRYADIA TNT الرياضية
+https://cdnet.alwaysdata.net/maroo00/maarrytnt.php?m3u8
+#EXTINF:-1 group-title="Autres",ATHAQAFIA الثقافية
+https://oppomu.serv00.net/maroo00/maarrabia.php?m3u8
+#EXTINF:-1 group-title="Autres",AL MAGHRIBIA المغربية الإخبارية
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
+#EXTINF:-1 group-title="Autres",ASSADISSA القرآن الكريم
+https://xddrts.alwaysdata.net/maroo00/maassadi.php?m3u8
+#EXTINF:-1 group-title="Autres",TAMAZIGHT الأمازيغية
+https://cdnet.alwaysdata.net/maroo00/matamaz.php?m3u8
+#EXTINF:-1 group-title="Autres",AL24 NEWS
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1 group-title="Autres",EL HEDDAF TV
+https://live.eighty-eight.tv:7770/elheddaf1/index.m3u8
+#EXTINF:-1 group-title="Autres",ENNAHAR TV (geoblocked)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/dz/ennahartv.m3u8
+#EXTINF:-1 group-title="Autres",EL HAYAT DZ (geoblocked)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/dz/elhayattv.m3u8
+#EXTINF:-1 group-title="Autres",ECHOROUK NEWS DZ (geoblocked)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/dz/echorouknews.m3u8
+#EXTINF:-1 group-title="Autres",ECHOROUK TV DZ (geoblocked)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/dz/echorouktv.m3u8
+#EXTINF:-1 group-title="Autres",CNA
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CHADA TV شدى (backup)
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:-1 group-title="Autres",CHADA TV شدى (backup)
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
+#EXTINF:-1 group-title="Autres",MEDI 1 MG العربية (off-backup)
+https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Autres",NESSMA
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/nessma.m3u8
+#EXTINF:-1 group-title="Autres",HELWA
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/helwa.m3u8
+#EXTINF:-1 group-title="Autres",SAMIRA
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/samira.m3u8
+#EXTINF:-1 group-title="Autres",ECHOROUK NEWS (backup)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/echorouknews.m3u8
+#EXTINF:-1 group-title="Autres",ECHOROUK TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/echorouktv.m3u8
+#EXTINF:-1 group-title="Autres",EL BILAD
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/elbilad.m3u8
+#EXTINF:-1 group-title="18. |IL|🇮🇱 ISRAEL ישראל",KAN 11 כאן
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="Autres",KAN 11 sub-cc כאן
+https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
+#EXTINF:-1 group-title="Autres",KESHET 12 קשת
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/k12.m3u8
+#EXTINF:-1 group-title="Autres",KESHET 12 sub-cc קשת
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/k12cc.m3u8
+#EXTINF:-1 group-title="Autres",RESHET 13 רשת
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="Autres",RESHET 13 sub-cc רשת
+https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
+#EXTINF:-1 group-title="Autres",NOW 14 עכשיו
+https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 group-title="Autres",NOW 14 עכשיו
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="Autres",i24 NEWS HE 15 עברית
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="Autres",HINUCHIT 23 חינוכית
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:-1 group-title="Autres",MAKO 24 ערוץ
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/ch24.m3u8
+#EXTINF:-1 group-title="Autres",CALCALA 10 ערוץ_הכלכלה
+https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="Autres",WALLA !+ וואלה! חדשות
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
+#EXTINF:-1 group-title="Autres",SPORT5 STUDIO RADIO (part-time)
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
+#EXTINF:-1 group-title="Autres",HAKNESSET 99 כנסת
+https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Autres",HAKNESSET 99 sub-cc כנסת
+https://kneset.gostreaming.tv/p2-Accessibility/_definst_/myStream/index.m3u8
+#EXTINF:-1 group-title="Autres",RESHET 13 COMEDY
+https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
+#EXTINF:-1 group-title="Autres",RESHET 13 NOFESH
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
+#EXTINF:-1 group-title="Autres",RESHET 13 REALITY
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
+#EXTINF:-1 group-title="Autres",KESHET 12 ERETZ COUNTRY
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/erets.m3u8
+#EXTINF:-1 group-title="Autres",KESHET 12 SAVRI MARNAN
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/savri.m3u8
+#EXTINF:-1 group-title="Autres",KESHET 12 HATUNA WEDDING
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/hatuna.m3u8
+#EXTINF:-1 group-title="Autres",KESHET 12 KOHAV STAR
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/kohav.m3u8
+#EXTINF:-1 group-title="Autres",KESHET 12 NINJA ISR
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/ninja.m3u8
+#EXTINF:-1 group-title="Autres",YNET NEWS ידיעות אחרונות
+https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
+#EXTINF:-1 group-title="Autres",NEWS 12 חדשות
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/keshetil/py/n12.m3u8
+#EXTINF:-1 group-title="Autres",i24 NEWS FR
+https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="Autres",i24 NEWS EN
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="Autres",i24 NEWS AR
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="Autres",KAN 33 MAKAN مكان
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:-1 group-title="Autres",PANET 30 HALA هلا
+https://stream.panet.com/edge/halaTV/playlist.m3u8
+#EXTINF:-1 group-title="Autres",ISRAEL 9TV канал
+https://contact.gostreaming.tv/Con-11/index.m3u8
+#EXTINF:-1 group-title="Autres",KAN 26 אפיק
+https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/playlist.m3u8
+#EXTINF:-1 group-title="Autres",KABBALAH 96 HEB
+http://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
+#EXTINF:-1 group-title="Autres",KABBALAH 96 HEB
+https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
+#EXTINF:-1 group-title="Autres",KABBALAH 96 RUS
+https://edge2.il.kab.tv/live/tv66-rus-high/playlist.m3u8
+#EXTINF:-1 group-title="Autres",HIDABROOT 97
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+#EXTINF:-1 group-title="Autres",HIDABROOT 97
+https://edge-fs-10.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+#EXTINF:-1 group-title="Autres",MUSAYOF מוסאיוף
+http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Autres",SHELANU GOD-IL
+https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
+#EXTINF:-1 group-title="Autres",SPORT5 STUDIO RADIO LIVE (standby link)
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+#EXTINF:-1 group-title="Autres",KAN 11 כאן (backup)
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:-1 group-title="Autres",KAN 11 כאן (backup)
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
+#EXTINF:-1 group-title="Autres",KAN 11 כאן (backup)
+https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="Autres",KAN 11 כאן (backup)
+https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8
 
